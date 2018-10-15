@@ -1,0 +1,20 @@
+{
+  "name": "WK10hw-NodeBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reneegrinnell/NodeBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reneegrinnell/NodeBot/issues"
+  },
+  "homepage": "https://github.com/reneegrinnell/NodeBot#readme"
+}
