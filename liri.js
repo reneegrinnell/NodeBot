@@ -54,7 +54,7 @@ else if (process.argv[2] == "spotify-this-song") {
     });
 
 }
-else if (process.argv[2] == 'movie-this') {
+else if (process.argv[2] == "movie-this") {
     var movieName = process.argv.slice(3).join(" ");
 
     if (movieName == undefined) {
@@ -76,5 +76,5 @@ else if (process.argv[2] == 'movie-this') {
     });
 
 } else if (process.argv[2] == "do-what-it-says") {
-    console.log("Do what it says")
+    console.log("Do what it says!")
 }

@@ -19,6 +19,7 @@
   "homepage": "https://github.com/reneegrinnell/NodeBot#readme",
   "dependencies": {
     "dotenv": "^6.1.0",
-    "keys.js": "^1.0.2"
+    "keys.js": "^1.0.2",
+    "package.json": "^2.0.1"
   }
 }
